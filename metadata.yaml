@@ -1,5 +1,5 @@
 _repo: Pre-Raphaelite-and-other-Poets_55377
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Erskine, John
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '39535'
     url: http://www.gutenberg.org/2009/agents/39535
+covers:
+- cover_type: archival
+  image_path: 55377-h/images/cover.jpg
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55377#Pre-Raphaelite-and-other-Poets
 gutenberg_issued: '2017-08-17'
 gutenberg_type: Text
 identifiers:
